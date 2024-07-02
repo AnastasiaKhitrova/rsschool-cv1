@@ -31,3 +31,5 @@ _So far, I have no experience in IT._
 * South Ural Medical University
 * South Ural Sport University
 ************
+# **English language**
+A2
