@@ -13,3 +13,21 @@ _At the moment, I am just starting to explore the IT field and I am determined t
 * Git
 * JavaScript(Basics)
 * Adobe Photoshop
+********
+# **Code Example**
+```
+const number = Number(prompt("Введите число:"));
+
+const lastnumber = number % 10;
+
+console.log(lastnumber);
+```
+********
+# **Experience**
+_So far, I have no experience in IT._
+***********
+# **Education**
+## University: 
+* South Ural Medical University
+* South Ural Sport University
+************
